@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/yangbimao37-cpu/lotmm-api.git
+[submodule "app"]
+	path = app
+	url = https://github.com/yangbimao37-cpu/lotmm-app.git
